@@ -18,7 +18,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphicon-calendar'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date'), '10/12/2019')
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date'), '10/12/2020')
 
 WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'Prueba Katalon')
 
